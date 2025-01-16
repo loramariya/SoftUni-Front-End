@@ -1,0 +1,19 @@
+p {
+    width: 300px;
+    padding: 20px;
+    border: 5px solid #333;
+    margin-bottom: 20px;
+}
+
+.visible {
+    
+    overflow: visible;
+}
+
+.hidden {
+    overflow: hidden;
+}
+
+.scrollable {
+    overflow: scroll;
+}
