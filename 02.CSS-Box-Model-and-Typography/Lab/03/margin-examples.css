@@ -4,14 +4,14 @@ div {
     margin-bottom: 2em;
 }
 
-.uniform-margin {
+div.uniform-margin {
     margin: 20px;
 }
 
-.non-uniform-margin {
+div.non-uniform-margin {
     margin: 10px 30px 20px 40px;
 }
 
-.negative-margin {
+div.negative-margin {
     margin: -20px;
 }

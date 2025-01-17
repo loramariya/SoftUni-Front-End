@@ -3,14 +3,14 @@ div {
     padding: 1em 2em;
     margin-bottom: 2em;
 }
-.uniform-padding{
+div.uniform-padding{
     padding: 20px;
 }
 
-.non-uniform-padding {
+div.non-uniform-padding {
     padding: 10xp 30px 20px 40px;
 }
 
-.percentage-padding {
+div.percentage-padding {
     padding: 5%;
 }
