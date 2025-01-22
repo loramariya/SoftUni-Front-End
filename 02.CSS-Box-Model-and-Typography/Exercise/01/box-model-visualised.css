@@ -1,0 +1,27 @@
+div {
+    padding: 2em;
+    border: 1px dashed #333;
+
+}
+
+.box-model {
+    width: 600px;
+    margin: 40px auto;
+}
+
+.margin {
+    background-color: lightsalmon;
+}
+
+.border {
+    background-color: bisque;
+}
+
+.padding {
+    background-color: lightgreen;
+}
+
+.content {
+    background-color: lightblue;
+    text-align: center;
+}
