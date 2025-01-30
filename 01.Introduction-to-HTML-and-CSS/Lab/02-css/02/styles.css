@@ -2,20 +2,30 @@ div p {
     color: blue;
 }
 
-ul>li {
+ul > li {
     list-style-type: circle;
 }
 
 p + p {
     background-color: gray;
-    
+
 }
 
 p ~ span {
     font-weight: bold;
-    
 }
 
 span {
     color: red;
+}
+
+.container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+}
+
+ul {
+    padding-left: 20px;
 }
